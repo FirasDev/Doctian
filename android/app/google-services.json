@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "802749751790",
+    "firebase_url": "https://doctian-87dbf.firebaseio.com",
+    "project_id": "doctian-87dbf",
+    "storage_bucket": "doctian-87dbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802749751790:android:3a65d57fbbee0e92602eff",
+        "android_client_info": {
+          "package_name": "com.example.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802749751790-ba5557i3set7teojt3g7tlnrp1vkdkff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hello_world",
+            "certificate_hash": "87bcb380a88114ed5b3ebd3f8aa8a8199eda491f"
+          }
+        },
+        {
+          "client_id": "802749751790-509tr4qqd3eac0bfeg6ejnrd8jcebreu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd0ANrddgpgGneYwilHBDNew8CWfb7iiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802749751790-509tr4qqd3eac0bfeg6ejnrd8jcebreu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

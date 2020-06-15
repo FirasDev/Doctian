@@ -1,0 +1,12 @@
+{
+    "sandbox": {
+        "baseUrl": "https://apigw.nubentos.com:443",
+        "authorization": "V3BON0dDTUhmM3ZvZGF5UFdpWDZUZUtQcFBrYTpnQ3BkdUFzSU9KeG44a0x0ZjJzRnBlVmY0eWNh",
+        "acces-token": "fd90a987-3e17-36dc-a604-f804188bd339"
+    },
+    "production": {
+    },
+    "discord.lowerDetailsEditing": "Workspace: Flutter",
+    "discord.lowerDetailsDebugging": "Debugging: Flutter",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
